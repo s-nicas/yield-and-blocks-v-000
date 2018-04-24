@@ -4,6 +4,7 @@ def hello_t(array)
     i += 1
     if array[i].starts_with?('T')
       puts "Hi, #{name}"
+    end 
   end 
 
 end
